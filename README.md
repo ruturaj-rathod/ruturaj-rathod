@@ -34,10 +34,9 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruturajsinh-rathod/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruturajsinh-rathod-93a02822b/)  
 - 📧 Email: rvrathod2838@gmail.com
   
 ---
 
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and connect — I'm always open to collaboration and new opportunities.
-
