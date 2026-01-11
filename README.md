@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruturaj Rathod
 
-🎯 **Highly motivated Software Engineer** with 2.5+ years of hands-on experience building responsive, user-friendly, and performant web applications.  
+🎯 **Highly motivated Software Engineer** with 3+ years of hands-on experience building responsive, user-friendly, and performant web applications.  
 💡 Passionate about crafting clean, maintainable code and bringing intuitive UI/UX designs to life.
 
 ---
