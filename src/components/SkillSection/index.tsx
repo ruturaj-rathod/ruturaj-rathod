@@ -73,7 +73,7 @@ export default function SkillSection() {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, amount: 0.2 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
-        className="text-2xl md:text-3xl font-bold tracking-[-0.02em] text-[#1D1D1F] dark:text-white mb-6"
+        className="text-2xl md:text-3xl font-bold tracking-[-0.02em] text-white mb-6"
       >
         Skills &amp; Technologies
       </motion.h3>
